@@ -3,7 +3,6 @@ module.exports = {
     title: 'Gatsby Default Starter',
     desc: "A blog and site for my many projects",
   },
-  pathPrefix: "/gatsbyblogtest",
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-styled-components",
