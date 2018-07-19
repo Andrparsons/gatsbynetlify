@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the new blog"
+title: "Gatsby Blog test"
 date: "2018-07-15"
 ---
 
