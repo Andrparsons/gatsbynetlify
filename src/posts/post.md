@@ -9,7 +9,7 @@ Gluten-free XOXO unicorn sriracha. Thundercats kitsch distillery af ethical. Dee
 
 
 
-![test image](/static/assets/test.jpg)
+![test image](/assets/test.jpg)
 
 * This
 * Is
